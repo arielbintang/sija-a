@@ -1,3 +1,1 @@
-nama : arielbintang
-absen : 11
-kelas : 12 sija-a
+hello
